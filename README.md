@@ -68,7 +68,7 @@ This project is licensed under the **MIT** License - see the [LICENSE](https://g
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_labels"></a> [labels](#module\_labels) | git@github.com:pankajyadavdevops/terraform-google-labels.git | 1.0.2 |
+| <a name="module_labels"></a> [labels](#module\_labels) | git@github.com:pankajyadavdevops/terraform-google-labels.git?ref=v1.0.2 | 1.0.2 |
 
 ## Resources
 
